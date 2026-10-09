@@ -5,7 +5,7 @@ Data Analysis capstone of [Bits to Builds](https://bitstobuilds.com), built on
 the [NYC Open Data Air Quality](https://data.cityofnewyork.us/Environment/Air-Quality/c3uy-2p5r)
 dataset (public domain).
 
-**Live demo:** (fill in after `publish.sh`)
+**Live demo:** <https://airbreather-7nlnskjunzca6cxy2ftryh.streamlit.app/>
 **Source:** <https://github.com/PJsAcademy/airbreather>
 
 ---
